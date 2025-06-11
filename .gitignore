@@ -6,6 +6,9 @@
 *.lo
 *.o
 *.obj
+!EmptyViewer/bunny.obj
+!Q2/bunny.obj
+
 
 # ───── Precompiled Headers ─────
 *.gch
